@@ -1,0 +1,13 @@
+/*
+!/src/
+!/public/
+!/supabase/
+!/.gitignore
+
+node_modules/
+.next/
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
